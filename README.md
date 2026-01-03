@@ -338,7 +338,7 @@ The tool has 4 main tabs, each with a specific use:
 
 ### License
 
-**Free License for Use** - See [LICENSE](LICENSE.md) for full terms and conditions
+**Free License for Use** - See [LICENSE](LICENSE) for full terms and conditions
 
 **License Covers:**
 - Free personal, educational, and commercial use
@@ -354,3 +354,4 @@ The tool has 4 main tabs, each with a specific use:
 <div align="center">
 **SubRay © 2025** - All Rights Reserved
 </div>
+
